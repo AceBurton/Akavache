@@ -183,7 +183,7 @@ Failure to do this may mean that queued items are not flushed to the cache.
 Akavache.Sqlite3.Registrations.Start("ApplicationName", () => SQLitePCL.Batteries_V2.Init());
 ```
 
-For more info about using your own versions of [SqlitePCL.raw](https://github.com/ericsink/SQLitePCL.raw/wiki/Using-multiple-libraries-that-use-SQLitePCL.raw)
+For more info about using your own versions of [SqlitePCL.raw](https://github.com/ericsink/SQLitePCL.raw/wiki/Using-multiple-libraries-that-use-SQLitePCL.raw).
 
 
 ### Examining Akavache caches
